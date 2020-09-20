@@ -6,6 +6,8 @@ namespace PeopleApp
 {
   class Program
   {
+    // Sample
+
     static void Main(string[] args)
     {
       var harry = new Person { Name = "Harry" };

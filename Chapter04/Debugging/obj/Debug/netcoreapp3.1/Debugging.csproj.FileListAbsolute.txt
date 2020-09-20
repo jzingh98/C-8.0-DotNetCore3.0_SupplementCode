@@ -1,0 +1,12 @@
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.exe
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.deps.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.dev.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfoInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfo.cs
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.genruntimeconfig.cache

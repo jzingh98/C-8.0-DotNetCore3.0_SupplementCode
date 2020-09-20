@@ -1,0 +1,12 @@
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.exe
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.deps.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.runtimeconfig.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.runtimeconfig.dev.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.AssemblyInfoInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.AssemblyInfo.cs
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.genruntimeconfig.cache

@@ -4,6 +4,8 @@ using static System.Console;
 
 namespace Packt.Shared
 {
+  // Sample edit
+
   public partial class Person : object
   {
     

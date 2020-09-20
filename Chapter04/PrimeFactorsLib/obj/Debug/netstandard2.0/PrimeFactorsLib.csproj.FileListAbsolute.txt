@@ -1,0 +1,9 @@
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\bin\Debug\netstandard2.0\PrimeFactorsLib.deps.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\bin\Debug\netstandard2.0\PrimeFactorsLib.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\bin\Debug\netstandard2.0\PrimeFactorsLib.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.AssemblyInfo.cs
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsLib\obj\Debug\netstandard2.0\PrimeFactorsLib.csprojAssemblyReference.cache

@@ -182,10 +182,10 @@ namespace WritingFunctions
 
     static void Main(string[] args)
     {
-      // RunTimesTable();
-      // RunCalculateTax();
-      // RunCardinalToOrdinal();
-      RunFactorial();
+      RunTimesTable();
+      //RunCalculateTax();
+      //RunCardinalToOrdinal();
+      //RunFactorial();
     }
   }
 }

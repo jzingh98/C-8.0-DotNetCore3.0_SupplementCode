@@ -1,0 +1,13 @@
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache

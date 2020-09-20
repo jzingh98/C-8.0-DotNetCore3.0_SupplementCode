@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jb8OIJUjnYWhsYEfZLkjwhtNtjSWBN38JUZ9ihXQdklZrr4yQ5jfSC26jWM2E7ynf1cJqVfD1f4Bq+ukz5Q16A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsing\\source\\repos\\cs8dotnetcore3\\Chapter04\\Exercise02Lib\\Exercise02Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsing\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jsing\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

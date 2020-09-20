@@ -1,0 +1,9 @@
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.deps.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csprojAssemblyReference.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.pdb

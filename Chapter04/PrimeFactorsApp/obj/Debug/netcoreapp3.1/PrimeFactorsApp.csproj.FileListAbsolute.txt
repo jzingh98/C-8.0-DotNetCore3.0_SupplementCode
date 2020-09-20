@@ -1,0 +1,16 @@
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\bin\Debug\netcoreapp3.1\PrimeFactorsApp.exe
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\bin\Debug\netcoreapp3.1\PrimeFactorsApp.deps.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\bin\Debug\netcoreapp3.1\PrimeFactorsApp.runtimeconfig.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\bin\Debug\netcoreapp3.1\PrimeFactorsApp.runtimeconfig.dev.json
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\bin\Debug\netcoreapp3.1\PrimeFactorsApp.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\bin\Debug\netcoreapp3.1\PrimeFactorsApp.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\bin\Debug\netcoreapp3.1\PrimeFactorsLib.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\bin\Debug\netcoreapp3.1\PrimeFactorsLib.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\obj\Debug\netcoreapp3.1\PrimeFactorsApp.csprojAssemblyReference.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\obj\Debug\netcoreapp3.1\PrimeFactorsApp.AssemblyInfoInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\obj\Debug\netcoreapp3.1\PrimeFactorsApp.AssemblyInfo.cs
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\obj\Debug\netcoreapp3.1\PrimeFactorsApp.csproj.CoreCompileInputs.cache
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\obj\Debug\netcoreapp3.1\PrimeFactorsApp.csproj.CopyComplete
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\obj\Debug\netcoreapp3.1\PrimeFactorsApp.dll
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\obj\Debug\netcoreapp3.1\PrimeFactorsApp.pdb
+C:\Users\jsing\source\repos\cs8dotnetcore3\Chapter04\PrimeFactorsApp\obj\Debug\netcoreapp3.1\PrimeFactorsApp.genruntimeconfig.cache
