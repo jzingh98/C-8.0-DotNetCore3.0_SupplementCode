@@ -7,6 +7,7 @@ using static System.Console;
 
 namespace AssembliesAndNamespaces
 {
+  // Test
   class Program
   {
     static void Main(string[] args)
